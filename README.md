@@ -1,2 +1,1 @@
-# Machine-Learning
-Machine learning implementation of NutriFish model that recognizes fish images.
+### Dataset Source: [kaggle](https://www.kaggle.com/datasets/sorayasab/indonesian-fish-species)
